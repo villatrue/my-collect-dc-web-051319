@@ -10,6 +10,7 @@
 #   end
 
 def mycollect
+  i=0
   empty_array =[]
-  
+  self.each do [i]
 end
