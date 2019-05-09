@@ -8,3 +8,8 @@
 #     end
 #     new_ary
 #   end
+
+def mycollect
+  empty_array =[]
+  
+end
