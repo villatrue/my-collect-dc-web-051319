@@ -8,7 +8,7 @@
 #   collect
 # end
 
-def my_collection
+def my_collect
   i = 0 
   collect = []
   while i < array.length
